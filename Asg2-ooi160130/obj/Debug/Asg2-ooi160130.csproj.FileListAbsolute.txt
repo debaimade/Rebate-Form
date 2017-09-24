@@ -1,0 +1,9 @@
+F:\Documents\CS 6326 - Human Computer Interactions\Asg2-ooi160130\Asg2-ooi160130\bin\Debug\CS6326Asg2.exe.config
+F:\Documents\CS 6326 - Human Computer Interactions\Asg2-ooi160130\Asg2-ooi160130\obj\Debug\CS6326Asg2.exe
+F:\Documents\CS 6326 - Human Computer Interactions\Asg2-ooi160130\Asg2-ooi160130\obj\Debug\CS6326Asg2.pdb
+F:\Documents\CS 6326 - Human Computer Interactions\Asg2-ooi160130\Asg2-ooi160130\bin\Debug\CS6326Asg2.exe
+F:\Documents\CS 6326 - Human Computer Interactions\Asg2-ooi160130\Asg2-ooi160130\bin\Debug\CS6326Asg2.pdb
+F:\Documents\CS 6326 - Human Computer Interactions\Asg2-ooi160130\Asg2-ooi160130\obj\Debug\Asg2-ooi160130.csprojResolveAssemblyReference.cache
+F:\Documents\CS 6326 - Human Computer Interactions\Asg2-ooi160130\Asg2-ooi160130\obj\Debug\CS6326Asg2.Form1.resources
+F:\Documents\CS 6326 - Human Computer Interactions\Asg2-ooi160130\Asg2-ooi160130\obj\Debug\CS6326Asg2.Properties.Resources.resources
+F:\Documents\CS 6326 - Human Computer Interactions\Asg2-ooi160130\Asg2-ooi160130\obj\Debug\Asg2-ooi160130.csproj.GenerateResource.Cache
