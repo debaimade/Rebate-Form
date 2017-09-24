@@ -6,3 +6,4 @@ F:\Documents\CS 6326 - Human Computer Interactions\Asg2-ooi160130\Asg2-ooi160130
 F:\Documents\CS 6326 - Human Computer Interactions\Asg2-ooi160130\Asg2-ooi160130\obj\Release\Asg2-ooi160130.csproj.GenerateResource.Cache
 F:\Documents\CS 6326 - Human Computer Interactions\Asg2-ooi160130\Asg2-ooi160130\obj\Release\CS6326Asg2.exe
 F:\Documents\CS 6326 - Human Computer Interactions\Asg2-ooi160130\Asg2-ooi160130\obj\Release\CS6326Asg2.pdb
+F:\Documents\CS 6326 - Human Computer Interactions\Asg2-ooi160130\Asg2-ooi160130\obj\Release\Asg2-ooi160130.csprojResolveAssemblyReference.cache

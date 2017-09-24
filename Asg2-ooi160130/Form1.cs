@@ -270,7 +270,8 @@ namespace CS6326Asg2
             toDelete += (dateTimePicker1.Value.ToString(("yyyy-MM-dd")) + "\t");
 
             // will scan the entries and rewrite the ones that do not match the entry we want to delete
-            var lines = File.ReadAllLines(@"CS6326Asg2.txt").Where(line => line != toDelete).ToArray();
+            var lines = File.ReadAllLines(@"CS6326Asg2.txt").Where(line => !line.Contains(toDelete)).ToArray();
+
             File.WriteAllLines(@"CS6326Asg2.txt", lines);
 
             refreshList();
